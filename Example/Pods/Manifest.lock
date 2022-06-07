@@ -1,0 +1,16 @@
+PODS:
+  - MyProgressView (0.1.0)
+
+DEPENDENCIES:
+  - MyProgressView (from `../`)
+
+EXTERNAL SOURCES:
+  MyProgressView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MyProgressView: 8771c39ae636ca6ab4be9f66bdc0a8c5a711a7f4
+
+PODFILE CHECKSUM: b331f1d8e77c5f74f5fc4ac60a29c2bc7b4adc8c
+
+COCOAPODS: 1.11.3

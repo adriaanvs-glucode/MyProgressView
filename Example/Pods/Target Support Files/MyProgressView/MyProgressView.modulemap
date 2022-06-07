@@ -1,0 +1,6 @@
+framework module MyProgressView {
+  umbrella header "MyProgressView-umbrella.h"
+
+  export *
+  module * { export * }
+}

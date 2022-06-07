@@ -1,0 +1,22 @@
+{
+  "name": "MyProgressView",
+  "version": "0.1.0",
+  "summary": "A short description of MyProgressView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/adriaanvs-glucode/MyProgressView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "adriaanvs-glucode": "adriaan@glucode.com"
+  },
+  "source": {
+    "git": "https://github.com/adriaanvs-glucode/MyProgressView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MyProgressView/Classes/**/*"
+}
